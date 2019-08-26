@@ -1,0 +1,31 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+
+        {
+            "ruta" : "add",
+            "icon" : "add_box",
+            "texto": "Agregar Medicina"
+        },
+        {
+            "ruta" : "recipe",
+            "icon" : "assignment",
+            "texto": "Receta Cita Médica"
+        },
+        {
+            "ruta" : "exam",
+            "icon" : "content_paste",
+            "texto": "Receta de Examen Médico"
+        },
+        {
+            "ruta" : "configuration",
+            "icon" : "settings",
+            "texto": "Configuración"
+        },
+        {
+            "ruta" : "help",
+            "icon" : "help_outline",
+            "texto": "ayuda y comentarios"
+        }
+    ]
+}
